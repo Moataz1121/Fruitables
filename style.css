@@ -1,0 +1,154 @@
+/* start first */
+.firstborder{
+    border-radius: 230px 100px;
+}
+.firstbg{
+    background-color: #81c408;
+}
+.firsticon{
+    color: #ffb524;
+}
+
+/* end first */
+/* start nav */
+.active{
+    color: #81c408;
+    
+}
+nav a{
+    text-decoration: none;
+    margin-right: 25px;
+    color: #949494;
+    font-size: large;
+}
+nav a:hover{
+    color: #81c408 !important;
+}
+.seconedBorder{
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    
+}
+.seconedBorder i{
+    color: #679d06 !important;
+    font-size: larger;
+}
+nav i {
+    color: #679d06;
+}
+nav i:hover{
+    cursor: pointer;
+    color: #436800;
+}
+
+/* end nav */
+
+/* start footer */
+.footerbg{
+    background-color: #45595b;
+}
+
+footer i{
+    color: #ffb524;
+}
+footer a:hover i{
+    color: #000 ;
+}
+/* .fotborder{
+    border-bottom: #81c408 ;
+} */
+ .footbtn{
+    background-color: #45595b;
+    color: #81c408;
+    border: 2px solid #81c408;
+    
+    border-radius: 30px;
+ }
+ .footbtn:hover{
+    background-color: #81c408;
+    color: white;
+ }
+/* end footer */
+/* start testmonial */
+.test{
+    color: #ffb524;
+}
+.bo-bottom{
+    border-bottom: 2px solid #ffb524;
+}
+.for-radouis{
+    border-radius: 25px;
+}
+/* end testmonail */
+/* start best */
+.testborder{
+    border-radius: 15px;
+}
+.testborder button {
+    background-color: #eee;
+    border-color:#81c408;
+    color: #81c408;
+    border-radius: 25px;
+}
+.testborder button:hover{
+    background-color: #81c408;
+    color: white;
+    outline: none;
+}
+/* start card in best */
+.btnForCard{
+    background-color: white;
+    color: #81c408;
+    border: 2px solid #81c408;
+    border-radius: 25px;
+}
+.btnForCard:hover{
+    background-color: #81c408;
+    color: white;
+}
+/* end card in best */
+/* end best */
+/* strat apple */
+.apple{
+    border: 2px solid white;
+    border-radius: 25px;
+    width: 120px;
+}
+.apple:hover{
+    background-color: #81C408 !important;
+    color: #45595b !important;
+}
+/* end start */
+/* image after */
+/* .imgafter::before{
+    content: '$1.50KG';
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    z-index: 150;
+    position: absolute;
+} */
+/* image after */
+/*==========================  */
+
+.ancorhovor:hover{
+    background-color: #ffb524 ;
+    color: white !important;
+}
+
+
+/*==========================  */
+/* Card  */
+
+.cards2:hover img{
+    transform: scale(1.1);
+    overflow: hidden;
+
+}
+.cards2:hover{
+    box-shadow: 5px 10px 5px 10px #d8d8d8;
+    
+}
+
+/* Card  */
